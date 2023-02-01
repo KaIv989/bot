@@ -1,0 +1,30 @@
+Python 3.10.8
+aiogram            2.22.2
+openpyxl           3.0.10
+
+
+(venv) C:\Users\User\Desktop\MF620CMFDriverV2160W64RU\bot\RGK_priceBot\venv\Scripts>pip list
+Package            Version
+------------------ ---------
+aiofiles           22.1.0
+aiogram            2.22.2
+aiohttp            3.8.3
+aiosignal          1.2.0
+async-timeout      4.0.2
+attrs              21.4.0
+Babel              2.9.1
+certifi            2021.10.8
+charset-normalizer 2.0.12
+et-xmlfile         1.1.0
+frozenlist         1.3.0
+idna               3.3
+magic-filter       1.0.9
+multidict          6.0.2
+openpyxl           3.0.10
+pip                22.3
+pydantic           1.10.2
+pytz               2022.1
+setuptools         65.5.0
+typing_extensions  4.4.0
+wheel              0.37.1
+yarl               1.7.2

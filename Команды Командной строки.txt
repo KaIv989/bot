@@ -1,5 +1,11 @@
 python -m pip install --upgrade pip - обновить PIP
+
 pip install 'название библиотеки' - Установка библиотеки' 
+
 pip freeze - посмотреть все установленные библиотеки
+
 ...\venv\Scripts\activate - Активировать виртуальное окружение
+
+pip freeze > requirements.txt - создать файл "зависимостей"
+
 cd .. - на каталог назад 
