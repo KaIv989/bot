@@ -4,10 +4,10 @@ from handlers import admin
 import json
 from datetime import datetime
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
+# <<<<<<< HEAD
+# =======
+#
+# >>>>>>> origin/main
 #### ОБЩАЯ ЧАСТЬ ###
 
 #@dp.message_handler(content_types=["photo"])
